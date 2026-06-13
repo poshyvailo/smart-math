@@ -9,7 +9,7 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "https://cdn-icons-png.flaticon.com/512/3593/3593539.png",
+            "src": "./icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
