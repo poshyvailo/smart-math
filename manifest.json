@@ -1,0 +1,17 @@
+{
+    "name": "Магічна Таблиця Множення",
+    "short_name": "Множення",
+    "description": "Зручний тренажер таблиці множення",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#8b5cf6",
+    "theme_color": "#8b5cf6",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/3593/3593539.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
